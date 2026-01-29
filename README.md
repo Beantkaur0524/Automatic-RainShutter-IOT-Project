@@ -5,11 +5,8 @@ This project integrates hardware and IoT technology to provide an efficient, cos
 # 🎯 Objectives
 
 * Automatically detect rain using sensors.
-
 * Control shutter movement using a motor.
-
 * Send real-time data to IoT platforms (ThingSpeak).
-
 * Display data on a mobile application.
 * Reduce manual effort and improve protection against rain.
 
