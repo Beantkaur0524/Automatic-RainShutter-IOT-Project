@@ -76,3 +76,4 @@ This project integrates hardware and IoT technology to provide an efficient, cos
 * Smart and scalable design
 
 # 📸 Project Demo
+![Automatic Rain Shutter](rainshutter.png)
